@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('./fonts/Signika-Medium.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Signika', sans-serif;
+}
